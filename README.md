@@ -19,5 +19,5 @@ où :
 
 ## Références:
 
-- [Log4J] (http://logging.apache.org/log4j/2.x/download.html)
-- [Tuto Log4J] (https://koor.fr/Java/Tutorial/java_logging_log4j2.wp)
+- [Log4J](http://logging.apache.org/log4j/2.x/download.html)
+- [Tuto Log4J](https://koor.fr/Java/Tutorial/java_logging_log4j2.wp)
